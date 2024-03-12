@@ -1,7 +1,9 @@
 package com.pj;
 
 import java.util.List;
+import org.springframework.stereotype.Service;
 
+@Service
 public class EmployeeService {
 
 	private EmployeeRepository repo;
