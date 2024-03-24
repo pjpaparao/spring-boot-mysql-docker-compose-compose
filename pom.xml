@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.pj</groupId>
 	<artifactId>spring-boot-mysql-docker-compose</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mysql-docker-compose</name>
 	<description>spring-boot-mysql-docker-compose</description>
 	<properties>
