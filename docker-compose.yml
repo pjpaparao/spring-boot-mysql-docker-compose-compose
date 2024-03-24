@@ -10,7 +10,7 @@ services:
         - "mysqldb"
       volumes:
         - "/data/springboot-app"     
-  mysql:
+  mysqldb:
       image: mysql:5.7
       networks:
        - "springboot-mysql-net"
